@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# assets
+assets/
+
+# chroma db
+chroma_regras_futebol_db/
